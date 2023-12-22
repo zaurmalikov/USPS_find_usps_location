@@ -1,0 +1,4 @@
+2023-12-18 09:06:19,391 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-18 09:06:20,716 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-18 09:06:21,074 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-18 09:06:21,291 : INFO : test_find_usps_location : Result validated as expected

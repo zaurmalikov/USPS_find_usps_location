@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="7.761" timestamp="2023-12-20T08:39:01.147072" hostname="HPevoi7"><testcase classname="test_find_usps_location.TestFindUspsLocation" name="test_find_usps_location[zip_code0]" time="7.689" /></testsuite></testsuites>

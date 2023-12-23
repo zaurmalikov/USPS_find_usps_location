@@ -26,3 +26,6 @@ class TestFindUspsLocation(BaseClass):
         address = find_usps_location_page.retrieved_address()
         assert "13 WABASH ST PITTSBURGH, PA 15220-9998" in address
         log.info("Result validated as expected")
+        
+
+#  this is for traininbranch in git

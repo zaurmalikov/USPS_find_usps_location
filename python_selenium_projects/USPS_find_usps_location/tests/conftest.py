@@ -37,7 +37,9 @@ def browser_invocation(request):
     driver.implicitly_wait(3)
 
     url = request.config.getoption("url")
-    if url == "QA":
+    if url == "https://www.usps.com/":
+        driver.get("https://www.usps.com/")
+    elif url == "QA":
         driver.get("https://www.usps.com/")
     elif url == "Prod":
         driver.get("https://www.usps.com/")

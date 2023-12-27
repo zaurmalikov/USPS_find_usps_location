@@ -269,3 +269,88 @@
 2023-12-20 08:39:08,119 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
 2023-12-20 08:39:08,554 : INFO : test_find_usps_location : Step 3 -- Validating expected result
 2023-12-20 08:39:08,768 : INFO : test_find_usps_location : Result validated as expected
+2023-12-24 09:15:07,039 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:16:56,948 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:17:51,561 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:17:55,446 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:17:55,915 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:17:56,018 : INFO : test_find_usps_location : Result validated as expected
+2023-12-24 09:19:42,887 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:19:44,152 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:19:44,488 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:19:44,712 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:26:04,406 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:26:05,691 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:26:06,098 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:26:06,210 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:28:55,608 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:28:59,472 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:28:59,870 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:29:00,083 : INFO : test_find_usps_location : Result validated as expected
+2023-12-24 09:29:31,352 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:29:32,806 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:29:33,173 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:29:33,393 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:30:04,583 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:30:05,938 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:30:06,312 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:30:06,538 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:37:15,995 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:37:17,393 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:37:17,754 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:37:17,972 : INFO : test_find_usps_location : Result validated as expected
+2023-12-24 09:37:43,234 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:37:44,507 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:37:44,881 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:42:23,987 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:42:25,312 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:42:25,698 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:42:25,935 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:43:28,479 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:43:31,870 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:43:32,265 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:43:32,485 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:47:06,333 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:47:07,757 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:47:08,129 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:47:08,351 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:47:52,603 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:47:55,703 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:47:56,090 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:48:56,409 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:48:57,664 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:48:58,033 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:48:58,260 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:48:58,465 : INFO : test_find_usps_location : Result validated as expected
+2023-12-24 09:50:08,416 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-24 09:50:09,689 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-24 09:50:10,085 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-24 09:50:10,308 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-24 09:50:10,509 : INFO : test_find_usps_location : Result validated as expected
+2023-12-27 08:49:18,181 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:49:19,274 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:49:19,689 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:49:19,831 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-27 08:49:19,831 : INFO : test_find_usps_location : Result validated as expected
+2023-12-27 08:52:12,144 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:53:29,701 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:53:30,850 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:53:31,227 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:53:31,334 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-27 08:54:24,869 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:54:25,902 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:54:26,269 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:54:26,494 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-27 08:55:05,122 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:55:06,285 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:55:06,641 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:55:06,859 : INFO : test_find_usps_location : Result validated as expected
+2023-12-27 08:57:48,418 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:57:49,515 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:57:49,863 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:58:17,223 : INFO : test_find_usps_location : Step 1 -- navigate to quick tools menu and click on FInd USPS Location icon
+2023-12-27 08:58:18,299 : INFO : test_find_usps_location : Step 2 -- Enter required ZIP Code, make radius 1 mile and click Find button
+2023-12-27 08:58:18,645 : INFO : test_find_usps_location : Step 3 -- Validating expected result
+2023-12-27 08:58:18,900 : ERROR : test_find_usps_location : Expected address was not appear
+2023-12-27 08:58:19,026 : INFO : test_find_usps_location : None
+assert '13 WABASH ST PITTSBURGH, PA 15220-9998abc' in '13 WABASH ST PITTSBURGH, PA 15220-9998'

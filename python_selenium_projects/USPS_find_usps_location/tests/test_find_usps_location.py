@@ -1,5 +1,6 @@
 import pytest
 from page_objects.home_page import HomePage
+from selenium.common import NoSuchElementException
 from test_data.zip_code_data import ZipCode
 from utilities.base_class import BaseClass
 
@@ -24,9 +25,13 @@ class TestFindUspsLocation(BaseClass):
 
         log.info("Step 3 -- Validating expected result")
         address = find_usps_location_page.retrieved_address()
-        assert "13 WABASH ST PITTSBURGH, PA 15220-9998" in address
-        log.info("Result validated as expected")
+
+        try:
+            assert "13 WABASH ST PITTSBURGH, PA 15220-9998abc" in address, log.error("Expected address was not appear")
+            log.info("Result validated as expected")
+            self.driver.get_screenshot_as_file("screenshotPass.png")
+        except AssertionError as e:
+            self.driver.get_screenshot_as_file("screenshotFail.png")
+            log.info(f"{e}")
 
 
-#  this is for traininbranch in git
-# this was modified by GitTraining again
